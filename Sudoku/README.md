@@ -1,4 +1,4 @@
-# 8 Puzzle Solver
+# Sudoku Solver
 
 The code uses backtracking and the minimum remaining value heuristic to solve a given sudoku puzzle.
 
