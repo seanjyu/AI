@@ -1,6 +1,6 @@
 # AI Puzzle Solvers
 
-##<ins>8 Puzzle</ins>
+## <ins>8 Puzzle</ins>
 
 The code uses 3 different search algorithims to solve the 8 puzzle, namely bfs, dfs and A-star search. The manhattan heuristic was used as the heuristic for the A-star search. 
 
@@ -15,7 +15,7 @@ Below shows an example output file.
 ![](8 Puzzle/images/image2.png)
 
 
-##<ins>Sudoku Solver</ins>
+## <ins>Sudoku Solver</ins>
 
 The sentence describes a Python web application that uses the Flask framework to host a Sudoku solver. The solver employs two techniques, backtracking and the minimum remaining value heuristic, to solve Sudoku puzzles.
 
