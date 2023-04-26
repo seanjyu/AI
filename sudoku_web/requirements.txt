@@ -1,0 +1,4 @@
+flask==2.2.3
+flask-sqlalchemy==3.0.3
+gunicorn==20.1.0
+itsdangerous==2.01
